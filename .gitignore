@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Used locally for setting secret variables that might be required by docker container
+secrets.sh 
+
+*.log
+
+# Unity license files
+*.ulf
+*.alf

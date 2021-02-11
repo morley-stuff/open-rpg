@@ -1,0 +1,2 @@
+${UNITY_LOC} -logFile ${WORKDIR}/logs/license.log -batchMode -nographics -manualLicenseFile ${LICENSE_FILE}
+${UNITY_LOC} -logFile ${WORKDIR}/logs/build.log -quit -batchMode -nographics -projectPath ${WORKDIR} -buildLinux64Player ${WORKDIR}/Build/game

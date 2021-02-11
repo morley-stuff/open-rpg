@@ -1,0 +1,1 @@
+${UNITY_LOC} -logFile ${WORKDIR}/logs/license.log -batchmode -nographics -username $UNITY_USERNAME -password $UNITY_PASSWORD
